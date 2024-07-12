@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f0f0f0;
+    background-color: #edeef0;
 }
 
 /* Styles for the calculator wrapper */
@@ -22,7 +22,7 @@ body {
     padding: 25px;
     font-size: 4rem;
     text-align: left;
-    font-family: "DS-Digital", sans-serif;
+    font-family: "DS-Digital", Arial;
     border: none;
     background-color: hsl(0, 0%, 90%); /* Slightly dark background */
     color: black; /* Text color */
@@ -45,7 +45,7 @@ button {
     background-color: hsl(0, 0%, 100%); /* White background */
     color: black; /* Text color */
     font-size: 2rem;
-    font-family: 'Montserrat';
+    font-family: "Montserrat", Arial;
     cursor: pointer;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
 }
