@@ -1,6 +1,6 @@
 # Calculator
 
-My calculator is a versatile and user-friendly web application designed to perform basic arithmetic operations quickly and efficiently.
+My calculator app is a versatile and user-friendly web application designed to perform basic arithmetic operations quickly and efficiently.
 
 ## Features
 
